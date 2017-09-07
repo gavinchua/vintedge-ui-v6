@@ -54,29 +54,10 @@ http://jquery.com/
 Sass is the most mature, stable, and powerful professional grade CSS extension language in the world.<br />
 http://sass-lang.com/
 
-######Why Stylus? And Not SASS or LESS<br />
-http://code.tutsplus.com/tutorials/sass-vs-less-vs-stylus-preprocessor-shootout--net-24320<br />
-http://webdesign.tutsplus.com/articles/why-i-choose-stylus-and-you-should-too--webdesign-18412<br />
-https://github.com/LearnBoost/stylus/blob/master/docs/compare.md
 
-######nib<br />
-CSS3 extensions for Stylus<br />
-http://visionmedia.github.io/nib/
-
-
-####Generate Style Guide<br />
-Universal CSS styleguide generator for grunt. Easily integrate Styledocco or KSS styleguide generation into your development workflow. Default: StyleDocco Framework<br />
-https://www.npmjs.org/package/grunt-styleguide/
-
-
-####StyleDocco<br />
-StyleDocco generates documentation and style guide documents from your stylesheets.<br />
-http://jacobrask.github.io/styledocco/
-
-
-######Sample Style Guide<br />
-A sample style guide can be found @:<br />
-http://10.10.10.10/_references/template/assets/css/build/styleguide/breadcrumbs.html
+######Bourbon<br />
+A simple and lightweight mixin library for Sass.<br />
+http://bourbon.io/
 
 
 ####Smushit<br />
