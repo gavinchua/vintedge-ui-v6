@@ -1,4 +1,4 @@
-Vintedge-UI V5
+Vintedge-UI V6
 ==============
 
 ![Vintedge](http://vintedge.com/images/logo_vintedge_sm.png "Vintedge")
