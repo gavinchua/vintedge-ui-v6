@@ -1,0 +1,32 @@
+/* - Font Folder - */
+/* - Image Folder - */
+/* - Breakpoints - */
+/* - Site Content Width - */
+/* - Site Common Colors - */
+/* http://www.colorhexa.com */
+/* - Responsive image - */
+/* - Hide on Tablet Portrait - */
+/* - Show on Tablet Portrait - */
+/* - Hide on Tablet Landscape - */
+/* - Show on Tablet Landscape - */
+ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+ol {
+  margin: 0;
+  padding-left: 15px;
+}
+ol li {
+  padding-left: 5px;
+}
+
+.disc {
+  list-style-type: disc;
+  margin-left: 15px;
+}
+.disc li {
+  padding-left: 5px;
+}

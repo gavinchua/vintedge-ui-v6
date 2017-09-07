@@ -45,3 +45,12 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+
+# Directories to ignore
+/deploy
+/.sass-cache
+/node_modules
+/bourbon
+
+# Files to ignore
+package-lock.json

@@ -1,0 +1,18 @@
+/* - Font Folder - */
+/* - Image Folder - */
+/* - Breakpoints - */
+/* - Site Content Width - */
+/* - Site Common Colors - */
+/* http://www.colorhexa.com */
+/* - Responsive image - */
+/* - Hide on Tablet Portrait - */
+/* - Show on Tablet Portrait - */
+/* - Hide on Tablet Landscape - */
+/* - Show on Tablet Landscape - */
+@font-face {
+  font-family: "FontAwesome";
+  src: url("../../assets/fonts/" "fontawesome/fontawesome-webfont.eot?v=4.6.3");
+  src: url("../../assets/fonts/" "fontawesome/fontawesome-webfont.eot?#iefix&v=4.6.3") format("embedded-opentype"), url("../../assets/fonts/" "fontawesome/fontawesome-webfont.woff2?v=4.6.3") format("woff2"), url("../../assets/fonts/" "fontawesome/fontawesome-webfont.woff?v=4.6.3") format("woff"), url("../../assets/fonts/" "fontawesome/fontawesome-webfont.ttf?v=4.6.3") format("truetype"), url("../../assets/fonts/" "fontawesome/fontawesome-webfont.svg?v=4.6.3#fontawesomeregular") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
