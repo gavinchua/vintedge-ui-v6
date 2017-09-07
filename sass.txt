@@ -1,0 +1,9 @@
+https://rubyinstaller.org/downloads/
+
+gem install sass
+
+sass -v (to check version)
+
+gem install bourbon
+
+bourbon install
