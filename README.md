@@ -1,5 +1,5 @@
-Vintedge-UI V6
-==============
+Vintedge-UI V6 using SASS
+=========================
 
 ![Vintedge](http://vintedge.com/images/logo_vintedge_sm.png "Vintedge")
 
